@@ -1,4 +1,4 @@
-## I build sometimes.
+## Trying to build something cool. Or at least useful.
 
 ### Languages, Libraries & Tools I've worked on:
 
